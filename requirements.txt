@@ -1,4 +1,4 @@
-tensorflow>=2.11.0,<2.19
+tensorflow
 scikit-learn>=1.3.0
 scikit-image>=0.21.0
 streamlit>=1.30.0
